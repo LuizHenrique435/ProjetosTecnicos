@@ -1,0 +1,4 @@
+var conteudo = 'Chapa: ' + ra  + '\n' + ' Nome:' + nome + '\n' + ' Apto a: ' + apto + '\n' + ' Treinamento em: ' + trei + '\n' + ' Vencimento em: ' + venc;
+    var GoogleCharts = 'https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=';
+    var imagemQRCode = GoogleCharts + conteudo;
+    document.getElementById('qrCode').src = imagemQRCode;

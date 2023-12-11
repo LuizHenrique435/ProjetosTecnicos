@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <title>Cracha do Serginho</title>
+
+    <style>
+
+      .container{
+        margin: 25px;
+      }
+
+      
+
+    </style>
+
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid" style="background-color: #04537C; margin-top: -8px; padding: 5px;">
+      <a class="navbar-brand" href="#" style="color: white;">WebCracha<span style=" border-right-color: white; border-right-style: solid; border-right-width: 1px; margin-left: 20px;"></span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html" style="color: white; text-align: center;">HOME</a>
+          </li>
+      </div>
+    </div>
+  </nav>  
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-7" style="padding-top: 30px; border-right-color: #04537C; border-right-width: 1px; border-right-style: solid;">
+
+        <div class="row" id="cracha1">
+
+              <div class="col-4 text-start"><img src="img/eteclogo.png" width="80%"></div>
+              <div class="col-8 text-start "><h1 style="font-size: 30px; color: #04537C; margin-bottom: 50px;">CADASTRO DE COLABORADORES<br><span style="font-size: 25px; margin-left: 45px; color: #4A555B;">Gerador de Crachás QRCODE</span></h1></div>  
+        </div>
+
+
+                <div class="mb-5 row">
+                    <label for="staticEmail" class="col-sm-3 col-form-label" style="color: #04537C; margin-left: 8%;">TA: </label>
+                    <div class="col-sm-4">
+                      <input type="text" class="form-control" id="reg" placeholder="(Ex: 00000-00)" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -32%;" onkeypress="$(this).mask('000.000-00')">
+                    </div>
+                    <center>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                          <label for="staticEmail" class="col-sm-4 col-form-label" style="color: #04537C; margin-left: -35px;">Empresa: </label>
+                          <div class="col-sm-8">
+                            <input type="text" class="form-control" id="empresa" placeholder="(Ex: Supermecado Pequeno)" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -17%;">
+                          </div>
+                      </div>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                          <label for="staticEmail" class="col-sm-4 col-form-label" style="color: #04537C; margin-left: -40px">Nome: </label>
+                          <div class="col-sm-8">
+                            <input type="text" class="form-control" placeholder="(Ex: Maria José Loro)" id="nome" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -15%">
+                          </div>
+                      </div>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                        <label for="staticEmail" class="col-sm-4 col-form-label" style="color: #04537C; margin-left: -40px">CPF: </label>
+                        <div class="col-sm-8">
+                          <input type="text" class="form-control" placeholder="(Ex: 000.000.000-00)" id="CPF" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -15%" onkeypress="$(this).mask('000.000.000-00');">
+                        </div>
+                    </div>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                          <label for="staticEmail" class="col-sm-4 col-form-label" style="color: #04537C; margin-left: -40px">Função: </label>
+                          <div class="col-sm-8">
+                            <input type="text" class="form-control" placeholder="(Ex: Madeireiro)" id="func" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -15%">
+                          </div>
+                      </div>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                          <label for="staticEmail" class="col-sm-4 col-form-label" style="color: #04537C; margin-left: -40px">Apto a: </label>
+                          <div class="col-sm-8">
+                            <input type="text" class="form-control" placeholder="(Ex: Cortar Madeira)" id="apto" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -15%">
+                          </div>
+                      </div>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                        <label for="staticEmail" class="col-sm-3 col-form-label" style="color: #04537C; ">Treinamento: </label>
+                        <div class="col-sm-8">
+                          <input type="date" class="form-control" id="trei" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -5%;">
+                        </div>
+                    </div>
+                      <div class="mb-3 row" style="margin-top: 20px;">
+                          <label for="staticEmail" class="col-sm-3 col-form-label" style="color: #04537C">Vencimento: </label>
+                          <div class="col-sm-8">
+                            <input type="date" class="form-control" id="venc" style="border-bottom-width: 4px ;border-color: #04537C; color: #04537C; margin-left: -5%;">
+                          </div>
+                      </div>
+                  </div>
+                      <button type="button" class="btn btn-primary" style="background-color: #04537C; margin-left: 20%;" onclick="testacampo()">GERAR</button>
+                      <button type="button" class="btn btn-primary" style="background-color: #04537C;" onclick="geraPDF()">IMPRIMIR</button>
+                      <button type="button" class="btn btn-primary" style="background-color: #04537C;">FOTO</button>
+                      <img src="img/Fundo_Branco.png" width="20%" style="margin-left: 100px; margin-top: -30px ;border-style: solid; border-width: 2px; border-color: #04537C;">
+            </div>
+                    </center>
+                    <div class="col-sm-5">
+                      <div class="card" id="cracha" style="width: 20rem; margin-left: 35% ; border-width: 4px; border-style: solid; border-color: #04537C; border-radius: 20px;">
+                        <img src="img/eteclogo.png" id="log" width="50%" style="margin-top: 20px; margin-bottom: 35px; margin-left: 70px">
+                        <div class="card-body">
+                          <img src="img/Fundo_Branco.png" width="30%" style="margin-left: 90px; margin-top: -30px ;border-style: solid; border-width: 2px; border-color: #04537C;
+                          margin-bottom: 20px;">
+                          <p id="nom" style="text-align: center; text-transform: inherit; font-weight: bold;"></p>
+                          <p id="fun" style="text-align: center; text-transform: inherit; font-weight: bold;"></p>
+                          <p id="texto" style="text-align: center; text-transform: inherit; font-weight: bold;"></p>
+                          <img src="img/Qr_Code.png" id="imageQRCode" width="40%" style="margin-left: 80px; margin-top: 35px;">
+                          <p id="fone" style="margin-left: 30px; margin-top: 30px; color: #04537C; padding-bottom: 60px; text-align: center;">Emergência : 0800  770  80  70</p>
+                          
+                        </div>
+                      </div>
+        
+                    </div>
+                </div>
+              </div>
+          </div>
+      </div>
+      </div>        
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+    <script src="js/funcoes.js"></script>
+
+</body>
+</html>
