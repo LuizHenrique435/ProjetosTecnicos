@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/css.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    
+    <title>Tabela Periodica</title>
+</head>
+<body>
+    
+<h1 style="color: black; text-align: center; font-style: inherit; font-size: 50px"><strong>TABELA PERÍODICA</strong></h1>
+
+  <div class="tabela">
+
+    <div class="botao" id="diatomicos" data-toggle="modal" data-target="#myModal1">H<br><span style="font-size: 17px">Hidrogênio</span></div>
+    <div class="nulo"></div>
+    <div class="modals"><img src="imagens/Modelo.PNG" style="width: 100%; height: 100%;" id="modals"></div>
+    <div class="nulo"></div>
+    <div class="nulo"></div>
+    <div class="nulo"></div>
+    <div class="nulo"></div>
+    <div class="nulo"></div>
+    <div class="botao" id="gasesnobres"  data-toggle="modal" data-target="#myModal2">He<br><span style="font-size: 17px">Hélio</span></div>
+    <div class="botao" id="alcalinos"  data-toggle="modal" data-target="#myModal3">Li<br><span style="font-size: 17px" >Lítio</span></div>
+    <div class="botao" id="terrosos"  data-toggle="modal" data-target="#myModal4">Be<br><span style="font-size: 17px">Berílio</span></div>
+    <div class="botao" id="semimetais" data-toggle="modal" data-target="#myModal7">B<br><span style="font-size: 17px">Boro</span></div>
+    <div class="botao" id="poliatomicos" data-toggle="modal" data-target="#myModal8">C<br><span style="font-size: 17px">Carbono</span></div>
+    <div class="botao" id="diatomicos">N<br><span style="font-size: 17px">Nitrogênio</span></div>
+    <div class="botao" id="diatomicos">O<br><span style="font-size: 17px">Oxigênio</span></div>
+    <div class="botao" id="diatomicos">F<br><span style="font-size: 17px">Flúor</span></div>
+    <div class="botao" id="gasesnobres">Ne<br><span style="font-size: 17px">Neônio</span></div>
+    <div class="botao" id="alcalinos"  data-toggle="modal" data-target="#myModal5">Na<br><span style="font-size: 17px">Sódio</span></div>
+    <div class="botao" id="terrosos"  data-toggle="modal" data-target="#myModal6">Mg<br><span style="font-size: 17px">Magnésio</span></div>
+    <div class="botao" id="metaispostran">Al<br><span style="font-size: 17px">Alumínio</span></div>
+    <div class="botao" id="semimetais">Si<br><span style="font-size: 17px">Silício</span></div>
+    <div class="botao" id="poliatomicos">P<br><span style="font-size: 17px">Fósforo</span></div>
+    <div class="botao" id="poliatomicos">S<br><span style="font-size: 17px">Enxofre</span></div>
+    <div class="botao" id="diatomicos">Cl<br><span style="font-size: 17px">Cloro</span></div>
+    <div class="botao" id="gasesnobres">Ar<br><span style="font-size: 17px">Argônio</span></div>
+    <div class="botao" id="alcalinos">K<br><span style="font-size: 17px">Potássio</span></div>
+    <div class="botao" id="terrosos">Ca<br><span style="font-size: 17px">Cálcio</span></div>
+    <div class="botao" id="transicao">Sc<br><span style="font-size: 17px">Escândio</span></div>
+    <div class="botao" id="transicao">Ti<br><span style="font-size: 17px">Titânio</span></div>
+    <div class="botao" id="transicao">V<br><span style="font-size: 17px">Vanádio</span></div>
+    <div class="botao" id="transicao">Cr<br><span style="font-size: 17px">Cromo</span></div>
+    <div class="botao" id="transicao">Mn<br><span style="font-size: 17px">Manganês</span></div>
+    <div class="botao" id="transicao">Fe<br><span style="font-size: 17px">Ferro</span></div>
+    <div class="botao" id="transicao">Co<br><span style="font-size: 17px">Cobalto</span></div>
+    <div class="botao" id="transicao">Ni<br><span style="font-size: 17px">Níquel</span></div>
+    <div class="botao" id="transicao">Cu<br><span style="font-size: 17px">Cobre</span></div>
+    <div class="botao" id="transicao">Zn<br><span style="font-size: 17px">Zinco</span></div>
+    <div class="botao" id="metaispostran">Ga<br><span style="font-size: 17px">Gálio</span></div>
+    <div class="botao" id="semimetais">Ge<br><span style="font-size: 17px">Germânio</span></div>
+    <div class="botao" id="semimetais">As<br><span style="font-size: 17px">Arsênio</span></div>
+    <div class="botao" id="poliatomicos">Se<br><span style="font-size: 17px">Selênio</span></div>
+    <div class="botao" id="diatomicos">Br<br><span style="font-size: 17px">Bromo</span></div>
+    <div class="botao" id="gasesnobres">Kr<br><span style="font-size: 17px">Criptônio</span></div>
+    <div class="botao" id="alcalinos">Rb<br><span style="font-size: 17px">Rubídio</span></div>
+    <div class="botao" id="terrosos">Sr<br><span style="font-size: 17px">Estrôncio</span></div>
+    <div class="botao" id="transicao">Y<br><span style="font-size: 17px">Ítrio</span></div>
+    <div class="botao" id="transicao">Zr<br><span style="font-size: 17px">Zircônio</span></div>
+    <div class="botao" id="transicao">Nb<br><span style="font-size: 17px">Nióbio</span></div>
+    <div class="botao" id="transicao">Mo<br><span style="font-size: 17px">Molibdênio</span></div>
+    <div class="botao" id="transicao">Tc<br><span style="font-size: 17px">Tecnécio</span></div>
+    <div class="botao" id="transicao">Ru<br><span style="font-size: 17px">Rutênio</span></div>
+    <div class="botao" id="transicao">Rh<br><span style="font-size: 17px">Ródio</span></div>
+    <div class="botao" id="transicao">Pd<br><span style="font-size: 17px">Paládio</span></div>
+    <div class="botao" id="transicao">Ag<br><span style="font-size: 17px">Prata</span></div>
+    <div class="botao" id="transicao">Cd<br><span style="font-size: 17px">Cádmio</span></div>
+    <div class="botao" id="metaispostran">In<br><span style="font-size: 17px">Índio</span></div>
+    <div class="botao" id="metaispostran">Sn<br><span style="font-size: 17px">Estanho</span></div>
+    <div class="botao" id="semimetais">Sb<br><span style="font-size: 17px">Antimônio</span></div>
+    <div class="botao" id="semimetais">Te<br><span style="font-size: 17px">Telúrio</span></div>
+    <div class="botao" id="diatomicos">I<br><span style="font-size: 17px">Iodo</span></div>
+    <div class="botao" id="gasesnobres">Xe<br><span style="font-size: 17px">Xenônio</span></div>
+    <div class="botao" id="alcalinos">Cs<br><span style="font-size: 17px">Césio</span></div>
+    <div class="botao" id="terrosos">Ba<br><span style="font-size: 17px">Bário</span></div>
+    <div class="botao" id="lantanideos">La<br><span style="font-size: 17px">57-71</span></div>
+    <div class="botao" id="transicao">Hf<br><span style="font-size: 17px">Háfnio</span></div>
+    <div class="botao" id="transicao">Ta<br><span style="font-size: 17px">Tântalo</span></div>
+    <div class="botao" id="transicao">W<br><span style="font-size: 17px">Tungstênio</span></div>
+    <div class="botao" id="transicao">Re<br><span style="font-size: 17px">Rênio</span></div>
+    <div class="botao" id="transicao">Os<br><span style="font-size: 17px">Ósmio</span></div>
+    <div class="botao" id="transicao">Ir<br><span style="font-size: 17px">Íridio</span></div>
+    <div class="botao" id="transicao">Pt<br><span style="font-size: 17px">Platina</span></div>
+    <div class="botao" id="transicao">Au<br><span style="font-size: 17px">Ouro</span></div>
+    <div class="botao" id="transicao">Hg<br><span style="font-size: 17px">Mercúrio</span></div>
+    <div class="botao" id="metaispostran">Tl<br><span style="font-size: 17px">Tálio</span></div>
+    <div class="botao" id="metaispostran">Pb<br><span style="font-size: 17px">Chumbo</span></div>
+    <div class="botao" id="metaispostran">Bi<br><span style="font-size: 17px">Bismuto</span></div>
+    <div class="botao" id="semimetais">Po<br><span style="font-size: 17px">Polônio</span></div>
+    <div class="botao" id="diatomicos">At<br><span style="font-size: 17px">Ástato</span></div>
+    <div class="botao" id="gasesnobres">Rn<br><span style="font-size: 17px">Radônio</span></div>
+    <div class="botao" id="alcalinos">Fr<br><span style="font-size: 17px">Frâncio</span></div>
+    <div class="botao" id="terrosos">Ra<br><span style="font-size: 17px">Rádio</span></div>
+    <div class="botao" id="actinideos">Ac<br><span style="font-size: 17px">89-103</span></div>
+    <div class="botao" id="transicao">Rf<br><span style="font-size: 13px">Rutherfórdio</span></div>
+    <div class="botao" id="transicao">Db<br><span style="font-size: 17px">Dúbnio</span></div>
+    <div class="botao" id="transicao">Sg<br><span style="font-size: 17px">Seabórgio</span></div>
+    <div class="botao" id="transicao">Bh<br><span style="font-size: 17px">Bóbrio</span></div>
+    <div class="botao" id="transicao">Hs<br><span style="font-size: 17px">Hássio</span></div>
+    <div class="botao" id="transicao">Mt<br><span style="font-size: 17px">Meitnério</span></div>
+    <div class="botao" id="transicao">Ds<br><span style="font-size: 15px">Darmstádio</span></div>
+    <div class="botao" id="transicao">Rg<br><span style="font-size: 15px">Roentigênio</span></div>
+    <div class="botao" id="transicao">Cn<br><span style="font-size: 17px">Copernício</span></div>
+    <div class="botao" id="metaispostran">Nh<br><span style="font-size: 17px">Nihônio</span></div>
+    <div class="botao" id="metaispostran">Fl<br><span style="font-size: 17px">Fleróvio</span></div>
+    <div class="botao" id="metaispostran">Mc<br><span style="font-size: 17px">Moscóvio</span></div>
+    <div class="botao" id="metaispostran">Lv<br><span style="font-size: 17px">Livermório</span></div>
+    <div class="botao" id="diatomicos">Ts<br><span style="font-size: 17px">Tenessino</span></div>
+    <div class="botao" id="gasesnobres">Og<br><span style="font-size: 17px">Oganessônio</span></div>
+    
+
+   </div>
+    <br>
+    <br>
+    <div class="tabela">
+
+        <div class="nulo"></div>
+        <div class="nulo"></div>
+        <div class="nulo"></div>
+        <div class="botao" id="lantanideos">La<br><span style="font-size: 17px">Lantânio</span></div>
+        <div class="botao" id="lantanideos">Ce<br><span style="font-size: 17px">Cério</span></div>
+        <div class="botao" id="lantanideos">Pr<br><span style="font-size: 17px">Praseodímio</span></div>
+        <div class="botao" id="lantanideos">Nd<br><span style="font-size: 17px">Neodímio</span></div>
+        <div class="botao" id="lantanideos">Pm<br><span style="font-size: 17px">Promécio</span></div>
+        <div class="botao" id="lantanideos">Sm<br><span style="font-size: 17px">Samário</span></div>
+        <div class="botao" id="lantanideos">Eu<br><span style="font-size: 17px">Európio</span></div>
+        <div class="botao" id="lantanideos">Gd<br><span style="font-size: 17px">Gadolínio</span></div>
+        <div class="botao" id="lantanideos">Tb<br><span style="font-size: 17px">Térbio</span></div>
+        <div class="botao" id="lantanideos">Dy<br><span style="font-size: 17px">Disprósio</span></div>
+        <div class="botao" id="lantanideos">Ho<br><span style="font-size: 17px">Hólmio</span></div>
+        <div class="botao" id="lantanideos">Er<br><span style="font-size: 17px">Érbio</span></div>
+        <div class="botao" id="lantanideos">Tm<br><span style="font-size: 17px">Túlio</span></div>
+        <div class="botao" id="lantanideos">Yb<br><span style="font-size: 17px">Itérbio</span></div>
+        <div class="botao" id="lantanideos">Lu<br><span style="font-size: 17px">Lutércio</span></div>
+        <div class="nulo"></div>
+        <div class="nulo"></div>
+        <div class="nulo"></div>
+        <div class="botao" id="actinideos">Ac<br><span style="font-size: 17px">Actínio</span></div>
+        <div class="botao" id="actinideos">Th<br><span style="font-size: 17px">Tório</span></div>
+        <div class="botao" id="actinideos">Pa<br><span style="font-size: 17px">Protactínio</span></div>
+        <div class="botao" id="actinideos">U<br><span style="font-size: 17px">Urânio</span></div>
+        <div class="botao" id="actinideos">Np<br><span style="font-size: 17px">Netúnio</span></div>
+        <div class="botao" id="actinideos">Pu<br><span style="font-size: 17px">Plutônio</span></div>
+        <div class="botao" id="actinideos">Am<br><span style="font-size: 17px">Amerício</span></div>
+        <div class="botao" id="actinideos">Cm<br><span style="font-size: 17px">Cúrio</span></div>
+        <div class="botao" id="actinideos">Bk<br><span style="font-size: 17px">Berquélio</span></div>
+        <div class="botao" id="actinideos">Cf<br><span style="font-size: 17px">Califórnio</span></div>
+        <div class="botao" id="actinideos">Es<br><span style="font-size: 17px">Einstênio</span></div>
+        <div class="botao" id="actinideos">Fm<br><span style="font-size: 17px">Férmio</span></div>
+        <div class="botao" id="actinideos">Md<br><span style="font-size: 17px">Mendelévio</span></div>
+        <div class="botao" id="actinideos">No<br><span style="font-size: 17px">Nobélio</span></div>
+        <div class="botao" id="actinideos">Lr<br><span style="font-size: 17px">Laurêncio</span></div>
+    </div>
+
+    <!-- Modal 1 -->
+    <div id="myModal1" class="modal fade" role="dialog">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Hidrogênio</h4>
+          </div>
+          <div class="modal-body">
+           <img src="imagens/Hidrogenio.PNG" width="100%">
+          </div>
+        </div>
+    
+      </div>
+    </div>
+
+    <!--MODAL 2 -->
+
+    <div id="myModal2" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Hélio</h4>
+            </div>
+            <div class="modal-body">
+             <img src="imagens/Helio.PNG" width="100%">
+            </div>
+          </div>
+      
+        </div>
+      </div>
+
+      <!-- MODAL 3 -->
+
+      <div id="myModal3" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Litio</h4>
+            </div>
+            <div class="modal-body">
+             <img src="imagens/Litio.PNG" width="100%">
+            </div>
+          </div>
+      
+        </div>
+      </div>
+
+      <!-- MODAL 4 -->
+
+      <div id="myModal4" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Berilio</h4>
+            </div>
+            <div class="modal-body">
+             <img src="imagens/Berilio.PNG" width="100%">
+            </div>
+          </div>
+      
+        </div>
+      </div>
+
+      <!-- MODAL 5 -->
+
+      <div id="myModal5" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Sodio</h4>
+            </div>
+            <div class="modal-body">
+             <img src="imagens/Sodio.PNG" width="100%">
+            </div>
+          </div>
+      
+        </div>
+      </div>
+
+<!-- MODAL 6 -->
+
+<div id="myModal6" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Magnésio</h4>
+      </div>
+      <div class="modal-body">
+       <img src="imagens/Magnesio.PNG" width="100%">
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- MODAL 7 -->
+
+<div id="myModal7" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Boro</h4>
+      </div>
+      <div class="modal-body">
+       <img src="imagens/Boro.PNG" width="100%">
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- MODAL 8 -->
+
+<div id="myModal8" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Carbono</h4>
+      </div>
+      <div class="modal-body">
+       <img src="imagens/Carbono.PNG" width="100%">
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
