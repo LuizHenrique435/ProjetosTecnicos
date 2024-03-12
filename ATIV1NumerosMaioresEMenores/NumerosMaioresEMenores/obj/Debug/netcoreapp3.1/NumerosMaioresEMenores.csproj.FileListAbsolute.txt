@@ -1,0 +1,12 @@
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\bin\Debug\netcoreapp3.1\NumerosMaioresEMenores.exe
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\bin\Debug\netcoreapp3.1\NumerosMaioresEMenores.deps.json
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\bin\Debug\netcoreapp3.1\NumerosMaioresEMenores.runtimeconfig.json
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\bin\Debug\netcoreapp3.1\NumerosMaioresEMenores.runtimeconfig.dev.json
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\bin\Debug\netcoreapp3.1\NumerosMaioresEMenores.dll
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\bin\Debug\netcoreapp3.1\NumerosMaioresEMenores.pdb
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\obj\Debug\netcoreapp3.1\NumerosMaioresEMenores.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\obj\Debug\netcoreapp3.1\NumerosMaioresEMenores.AssemblyInfoInputs.cache
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\obj\Debug\netcoreapp3.1\NumerosMaioresEMenores.AssemblyInfo.cs
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\obj\Debug\netcoreapp3.1\NumerosMaioresEMenores.dll
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\obj\Debug\netcoreapp3.1\NumerosMaioresEMenores.pdb
+C:\ETEC\TPA\NumerosMaioresEMenores\NumerosMaioresEMenores\obj\Debug\netcoreapp3.1\NumerosMaioresEMenores.genruntimeconfig.cache
