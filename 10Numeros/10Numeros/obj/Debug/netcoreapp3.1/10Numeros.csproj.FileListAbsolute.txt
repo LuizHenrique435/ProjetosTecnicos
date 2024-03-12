@@ -1,0 +1,13 @@
+C:\ETEC\TPA\10Numeros\10Numeros\bin\Debug\netcoreapp3.1\10Numeros.exe
+C:\ETEC\TPA\10Numeros\10Numeros\bin\Debug\netcoreapp3.1\10Numeros.deps.json
+C:\ETEC\TPA\10Numeros\10Numeros\bin\Debug\netcoreapp3.1\10Numeros.runtimeconfig.json
+C:\ETEC\TPA\10Numeros\10Numeros\bin\Debug\netcoreapp3.1\10Numeros.runtimeconfig.dev.json
+C:\ETEC\TPA\10Numeros\10Numeros\bin\Debug\netcoreapp3.1\10Numeros.dll
+C:\ETEC\TPA\10Numeros\10Numeros\bin\Debug\netcoreapp3.1\10Numeros.pdb
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.csprojAssemblyReference.cache
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.AssemblyInfoInputs.cache
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.AssemblyInfo.cs
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.dll
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.pdb
+C:\ETEC\TPA\10Numeros\10Numeros\obj\Debug\netcoreapp3.1\10Numeros.genruntimeconfig.cache
