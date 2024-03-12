@@ -1,0 +1,13 @@
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\bin\Debug\netcoreapp3.1\5NumerosPerfeitos.exe
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\bin\Debug\netcoreapp3.1\5NumerosPerfeitos.deps.json
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\bin\Debug\netcoreapp3.1\5NumerosPerfeitos.runtimeconfig.json
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\bin\Debug\netcoreapp3.1\5NumerosPerfeitos.runtimeconfig.dev.json
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\bin\Debug\netcoreapp3.1\5NumerosPerfeitos.dll
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\bin\Debug\netcoreapp3.1\5NumerosPerfeitos.pdb
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.csprojAssemblyReference.cache
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.AssemblyInfoInputs.cache
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.AssemblyInfo.cs
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.dll
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.pdb
+C:\ETEC\TPA\5NumerosPerfeitos\5NumerosPerfeitos\obj\Debug\netcoreapp3.1\5NumerosPerfeitos.genruntimeconfig.cache
