@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+</head>
+
+<body>
+
+    <h1> CALCULADORA SUPER AVANCADA 2020</h1>
+
+    <p>insira os números e receba o resuldado da conta</p>
+
+    <input type="number" id="num1" min="0" value="0" >
+    <input type="number" id="num2" min="0" value="0">
+    <input type="number" id="num3" min="0" value="0">
+
+   <!-- 
+    <select id="Subtração">
+        <option value="1"> Adição </option>
+        <option value="2"> Subtração </option>
+        <option value="3"> Divisão</option>
+        <option value="4"> Multiplicação </option>
+        <option value="5"> Média </option>
+    </select>
+    -->
+    
+    <p id="adicao" onchange="adicao()">A soma dos 3 números é :<span id="mostrasoma">0</span></p>
+    <p id="subtração">A subtração dos 3 números é :</p>
+    <p id="divisao">A divisão dos 3 números é igual a :</p>
+    <p id="multiplicacao">A multiplicação dos 3 números é :</p>
+    <p id="media">A média dos 3 números é igual a :</p>
+    
+    <script>
+    
+        function adicao()
+        {
+            var num1 = document.getElementById("num1");
+            var num2 = document.getElementById("num2");
+            var num3 = document.getElementById("num3");
+            var total = num1 + num2 + num3;
+            
+            document.getElementById("mostrasoma").innerHTML= total.value;
+        }
+    
+    </script>
+
+</body></html>

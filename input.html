@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMPUTASSO</title>
+</head>
+
+<body>
+
+    <button id="Adicao" onclick="Adiciona()">+</button>
+    <input type="text" value="1" id="parametro">
+    <button id="Subtrai" onclick="Subtrai()">-</button>
+
+    <script>
+        
+        var numero = document.getElementById("parametro").value*1;
+
+        function Adiciona() {
+            if (numero < 10) {
+                numero = (numero * 1) + 1;
+                document.getElementById("parametro").value = numero*1;
+            } else {
+                alert("Esse é o Limite Máxima")
+            }
+
+
+        }
+
+
+        function Subtrai() {
+            if (numero > 0) {
+                numero = (numero * 1) - 1;
+                document.getElementById("parametro").value = numero*1;
+            }
+            else{
+                alert("Este é o limite mínimo !")
+            }
+
+        }
+
+    </script>
+
+</body>
+
+</html>

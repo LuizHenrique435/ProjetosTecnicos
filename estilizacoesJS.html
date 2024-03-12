@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+
+    <style>
+        .container {
+            margin-right: 10%;
+            margin-left: 10%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div>
+        <div class="container">
+
+
+
+           <center> <input id="digitacao" type="text" onkeyup="RepeteTexto()"></center>
+            <p style="font-size: 10px" id="repetidor">aguardando digitação....</p>
+
+            <input id="cor" type="color" onchange="TrocaCor()">
+            <button type="button" onclick="Negrito()"> <strong>N</strong> </button>
+            <button type="button" onclick="Italico()"> <i>I</i> </button>
+            <button type="button" onclick="Centralizar()"> <img src="https://image.flaticon.com/icons/svg/2087/2087794.svg" width="16px"> </button>
+
+            CorFundo<input id="backgroundcolorido" type="color" onchange="BackgroudColor()">
+            
+            TamanhoDaFonte<input id="tamanhofont" type="number" onchange=" Trocarfonte()" value="10">
+
+        </div>
+
+    </div>
+
+    <script>
+        function RepeteTexto() {
+            document.getElementById("repetidor").innerHTML = document.getElementById("digitacao").value;
+        }
+
+        function TrocaCor() {
+            document.getElementById("repetidor").style.color = document.getElementById("cor").value;
+        }
+
+        function Negrito() {
+            document.getElementById("repetidor").style.fontWeight = "bold";
+        }
+
+        function Italico() {
+            document.getElementById("repetidor").style.fontStyle = "italic";
+        }
+
+        function Centralizar() {
+            document.getElementById("repetidor").style.textAlign = "center";
+        }
+
+        function BackgroudColor() 
+        {
+            document.getElementById("repetidor").style.backgroundColor = document.getElementById("backgroundcolorido").value;
+        }
+        
+        function Trocarfonte()
+        {
+            document.getElementById("repetidor").style.fontSize = document.getElementById("tamanhofont").value + 'px';
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap');
+
+        body {
+            margin-left: 10%;
+            margin-right: 10%;
+            font-family: 'Lato', sans-serif;
+            text-align: justify;
+            line-height: 1.5;
+        }
+
+        button {
+            border-width: 0px;
+            height: 45px;
+            padding-left: 25px;
+            padding-right: 25px;
+            font-weight: bold;
+            background-color: cadetblue;
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            border-radius: 15px;
+        }
+
+        .linha {
+            display: flex;
+            flex-flow: row wrap;
+        }
+
+        .coluna-50 {
+            width: 50%;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="linha">
+        <div class="coluna-50">
+
+            <center>
+                <img src="https://http2.mlstatic.com/D_NQ_NP_2X_836117-MLA41596594484_042020-F.webp" width="40%">
+            </center>
+
+        </div>
+        <div class="coluna-50">
+
+            <h2>Xanxung Galaxy</h2>
+
+            <p style="padding-top: 5%">
+                O novo Xanxung Galaxy é o melhor celular que você pode ter, não perca tempo. Todo mundo já tem este celular incrível; Luiz, Leonardo, Nicolas, Tainá, Melissa, Thales, Mateus, Vinicius e Pedro são alguns dos nossos milhares de clientes satisfeitos.
+            </p>
+
+            <h3>R$ 1.200,00</h3>
+
+            <br />
+            Qtd: <input id="qtd" type="number" value="1" min="1" max="3" onchange="CalculaPreco()">
+
+            Parcelas
+            <select id="qtdParcelas" onchange="CalculaPreco()">
+                <option value="1"> 1x </option>
+                <option value="2"> 2x </option>
+                <option value="3"> 3x </option>
+                <option value="4"> 4x </option>
+                <option value="5"> 5x </option>
+                <option value="6"> 6x </option>
+                <option value="7"> 7x </option>
+                <option value="8"> 8x </option>
+                <option value="9"> 9x </option>
+                <option value="10"> 10x </option>
+                <option value="12"> 11x </option>
+                <option value="13"> 12x </option>
+            </select>
+
+            <p>R$ <span id="vlFinal"> 1.200,00.</span> <br /><span id="parcSelecionada">1</span> parcela(s) de R$ <span id="vlParcela">1.200,00</span></p>
+
+            <button> Comprar <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
+
+        </div>
+    </div>
+
+    <script>
+        function CalculaPreco() {
+            var preco = 1200;
+            var qtd = document.getElementById("qtd");
+            var parcela = document.getElementById("qtdParcelas");
+
+            var calculo = preco * qtd.value;
+            var calculaParcelas = calculo / parcela.value;
+
+            // alert("O valor total é: " + calculo);
+            document.getElementById("vlFinal").innerHTML = calculo;
+            document.getElementById("parcSelecionada").innerHTML = parcela.value;
+            document.getElementById("vlParcela").innerHTML = calculaParcelas.toLocaleString('pt-BR', {
+                style: 'currency',
+                currency: 'BRL'
+            });;
+        }
+    </script>
+
+</body></html>
