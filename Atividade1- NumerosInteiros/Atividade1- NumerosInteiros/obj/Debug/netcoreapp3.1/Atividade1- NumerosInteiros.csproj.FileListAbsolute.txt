@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\bin\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.exe
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\bin\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.deps.json
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\bin\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\bin\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\bin\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.dll
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\bin\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.pdb
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.dll
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.pdb
+C:\Users\Luiz Henrique\source\repos\Atividade1- NumerosInteiros\Atividade1- NumerosInteiros\obj\Debug\netcoreapp3.1\Atividade1- NumerosInteiros.genruntimeconfig.cache
