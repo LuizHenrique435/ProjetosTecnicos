@@ -1,0 +1,19 @@
+C:\ETEC\TPA\JackPotSC\JackPotSC\bin\Debug\netcoreapp3.1\JackPotSC.exe
+C:\ETEC\TPA\JackPotSC\JackPotSC\bin\Debug\netcoreapp3.1\JackPotSC.deps.json
+C:\ETEC\TPA\JackPotSC\JackPotSC\bin\Debug\netcoreapp3.1\JackPotSC.runtimeconfig.json
+C:\ETEC\TPA\JackPotSC\JackPotSC\bin\Debug\netcoreapp3.1\JackPotSC.runtimeconfig.dev.json
+C:\ETEC\TPA\JackPotSC\JackPotSC\bin\Debug\netcoreapp3.1\JackPotSC.dll
+C:\ETEC\TPA\JackPotSC\JackPotSC\bin\Debug\netcoreapp3.1\JackPotSC.pdb
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.csprojAssemblyReference.cache
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.AssemblyInfoInputs.cache
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.AssemblyInfo.cs
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.dll
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.pdb
+C:\ETEC\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.genruntimeconfig.cache
+E:\ETEC - 2020\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.dll
+E:\ETEC - 2020\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.pdb
+E:\ETEC - 2020\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC - 2020\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.AssemblyInfoInputs.cache
+E:\ETEC - 2020\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.AssemblyInfo.cs
+E:\ETEC - 2020\TPA\JackPotSC\JackPotSC\obj\Debug\netcoreapp3.1\JackPotSC.csproj.CoreCompileInputs.cache

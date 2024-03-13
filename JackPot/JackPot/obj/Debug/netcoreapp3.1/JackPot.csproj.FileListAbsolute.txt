@@ -1,0 +1,26 @@
+C:\ETEC\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.exe
+C:\ETEC\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.deps.json
+C:\ETEC\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.runtimeconfig.json
+C:\ETEC\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.runtimeconfig.dev.json
+C:\ETEC\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.dll
+C:\ETEC\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.pdb
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.csprojAssemblyReference.cache
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.AssemblyInfoInputs.cache
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.AssemblyInfo.cs
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.dll
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.pdb
+C:\ETEC\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.genruntimeconfig.cache
+E:\ETEC - 2020\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.exe
+E:\ETEC - 2020\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.deps.json
+E:\ETEC - 2020\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.runtimeconfig.json
+E:\ETEC - 2020\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.runtimeconfig.dev.json
+E:\ETEC - 2020\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.dll
+E:\ETEC - 2020\TPA\JackPot\JackPot\bin\Debug\netcoreapp3.1\JackPot.pdb
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.csproj.AssemblyReference.cache
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.AssemblyInfoInputs.cache
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.AssemblyInfo.cs
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.csproj.CoreCompileInputs.cache
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.dll
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.pdb
+E:\ETEC - 2020\TPA\JackPot\JackPot\obj\Debug\netcoreapp3.1\JackPot.genruntimeconfig.cache

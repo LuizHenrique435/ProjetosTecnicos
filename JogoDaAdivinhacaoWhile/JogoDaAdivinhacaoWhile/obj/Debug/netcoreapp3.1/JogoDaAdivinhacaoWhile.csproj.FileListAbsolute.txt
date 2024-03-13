@@ -1,0 +1,12 @@
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\bin\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.exe
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\bin\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.deps.json
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\bin\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\bin\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\bin\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.dll
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\bin\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.pdb
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\obj\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\obj\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\obj\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\obj\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.dll
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\obj\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.pdb
+C:\Users\Luiz Henrique\source\repos\JogoDaAdivinhacaoWhile\JogoDaAdivinhacaoWhile\obj\Debug\netcoreapp3.1\JogoDaAdivinhacaoWhile.genruntimeconfig.cache
