@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\bin\Debug\netcoreapp3.1\EntrevistaWhile.exe
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\bin\Debug\netcoreapp3.1\EntrevistaWhile.deps.json
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\bin\Debug\netcoreapp3.1\EntrevistaWhile.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\bin\Debug\netcoreapp3.1\EntrevistaWhile.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\bin\Debug\netcoreapp3.1\EntrevistaWhile.dll
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\bin\Debug\netcoreapp3.1\EntrevistaWhile.pdb
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.dll
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.pdb
+C:\Users\Luiz Henrique\source\repos\EntrevistaWhile\EntrevistaWhile\obj\Debug\netcoreapp3.1\EntrevistaWhile.genruntimeconfig.cache

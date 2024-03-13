@@ -1,0 +1,13 @@
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\bin\Debug\netcoreapp3.1\CentenaParImpar.exe
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\bin\Debug\netcoreapp3.1\CentenaParImpar.deps.json
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\bin\Debug\netcoreapp3.1\CentenaParImpar.runtimeconfig.json
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\bin\Debug\netcoreapp3.1\CentenaParImpar.runtimeconfig.dev.json
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\bin\Debug\netcoreapp3.1\CentenaParImpar.dll
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\bin\Debug\netcoreapp3.1\CentenaParImpar.pdb
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.csprojAssemblyReference.cache
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.AssemblyInfoInputs.cache
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.AssemblyInfo.cs
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.dll
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.pdb
+C:\ETEC\TPA\CentenaParImpar\CentenaParImpar\obj\Debug\netcoreapp3.1\CentenaParImpar.genruntimeconfig.cache

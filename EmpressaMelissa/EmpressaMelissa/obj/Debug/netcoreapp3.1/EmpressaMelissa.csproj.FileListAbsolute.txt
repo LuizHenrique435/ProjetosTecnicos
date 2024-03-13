@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\bin\Debug\netcoreapp3.1\EmpressaMelissa.exe
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\bin\Debug\netcoreapp3.1\EmpressaMelissa.deps.json
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\bin\Debug\netcoreapp3.1\EmpressaMelissa.runtimeconfig.json
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\bin\Debug\netcoreapp3.1\EmpressaMelissa.runtimeconfig.dev.json
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\bin\Debug\netcoreapp3.1\EmpressaMelissa.dll
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\bin\Debug\netcoreapp3.1\EmpressaMelissa.pdb
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.csprojAssemblyReference.cache
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.AssemblyInfo.cs
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.dll
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.pdb
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EmpressaMelissa\EmpressaMelissa\obj\Debug\netcoreapp3.1\EmpressaMelissa.genruntimeconfig.cache
