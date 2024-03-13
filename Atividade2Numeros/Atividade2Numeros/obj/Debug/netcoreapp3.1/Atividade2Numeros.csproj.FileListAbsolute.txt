@@ -1,0 +1,12 @@
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\bin\Debug\netcoreapp3.1\Atividade2Numeros.exe
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\bin\Debug\netcoreapp3.1\Atividade2Numeros.deps.json
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\bin\Debug\netcoreapp3.1\Atividade2Numeros.runtimeconfig.json
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\bin\Debug\netcoreapp3.1\Atividade2Numeros.runtimeconfig.dev.json
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\bin\Debug\netcoreapp3.1\Atividade2Numeros.dll
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\bin\Debug\netcoreapp3.1\Atividade2Numeros.pdb
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\obj\Debug\netcoreapp3.1\Atividade2Numeros.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\obj\Debug\netcoreapp3.1\Atividade2Numeros.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\obj\Debug\netcoreapp3.1\Atividade2Numeros.AssemblyInfo.cs
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\obj\Debug\netcoreapp3.1\Atividade2Numeros.dll
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\obj\Debug\netcoreapp3.1\Atividade2Numeros.pdb
+C:\ETEC\TPA\Atividade2Numeros\Atividade2Numeros\obj\Debug\netcoreapp3.1\Atividade2Numeros.genruntimeconfig.cache
