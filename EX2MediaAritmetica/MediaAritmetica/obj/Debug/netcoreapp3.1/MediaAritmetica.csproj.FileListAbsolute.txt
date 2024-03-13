@@ -1,0 +1,13 @@
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.exe
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.deps.json
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.json
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.dev.json
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.csprojAssemblyReference.cache
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfoInputs.cache
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfo.cs
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\ETEC\TPA\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.genruntimeconfig.cache

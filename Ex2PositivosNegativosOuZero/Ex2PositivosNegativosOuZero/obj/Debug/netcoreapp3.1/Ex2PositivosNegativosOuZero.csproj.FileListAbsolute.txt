@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\bin\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.exe
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\bin\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.deps.json
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\bin\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.runtimeconfig.json
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\bin\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\bin\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.dll
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\bin\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.pdb
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.csprojAssemblyReference.cache
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.AssemblyInfo.cs
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.dll
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.pdb
+C:\ETEC\TPA\Ex2PositivosNegativosOuZero\Ex2PositivosNegativosOuZero\obj\Debug\netcoreapp3.1\Ex2PositivosNegativosOuZero.genruntimeconfig.cache

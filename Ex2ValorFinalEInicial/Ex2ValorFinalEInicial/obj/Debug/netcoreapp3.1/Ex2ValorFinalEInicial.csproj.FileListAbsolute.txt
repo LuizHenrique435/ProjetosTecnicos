@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\bin\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.exe
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\bin\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.deps.json
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\bin\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.runtimeconfig.json
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\bin\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\bin\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.dll
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\bin\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.pdb
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.csprojAssemblyReference.cache
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.AssemblyInfo.cs
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.dll
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.pdb
+C:\ETEC\TPA\Ex2ValorFinalEInicial\Ex2ValorFinalEInicial\obj\Debug\netcoreapp3.1\Ex2ValorFinalEInicial.genruntimeconfig.cache
