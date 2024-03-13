@@ -1,0 +1,13 @@
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\bin\Debug\netcoreapp3.1\TainaVinicius.exe
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\bin\Debug\netcoreapp3.1\TainaVinicius.deps.json
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\bin\Debug\netcoreapp3.1\TainaVinicius.runtimeconfig.json
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\bin\Debug\netcoreapp3.1\TainaVinicius.runtimeconfig.dev.json
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\bin\Debug\netcoreapp3.1\TainaVinicius.dll
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\bin\Debug\netcoreapp3.1\TainaVinicius.pdb
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.csprojAssemblyReference.cache
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.AssemblyInfoInputs.cache
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.AssemblyInfo.cs
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.dll
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.pdb
+C:\ETEC\TPA\TainaVinicius\TainaVinicius\obj\Debug\netcoreapp3.1\TainaVinicius.genruntimeconfig.cache

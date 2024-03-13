@@ -1,0 +1,13 @@
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\bin\Debug\netcoreapp3.1\SorteioMagicoSC.exe
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\bin\Debug\netcoreapp3.1\SorteioMagicoSC.deps.json
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\bin\Debug\netcoreapp3.1\SorteioMagicoSC.runtimeconfig.json
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\bin\Debug\netcoreapp3.1\SorteioMagicoSC.runtimeconfig.dev.json
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\bin\Debug\netcoreapp3.1\SorteioMagicoSC.dll
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\bin\Debug\netcoreapp3.1\SorteioMagicoSC.pdb
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.csprojAssemblyReference.cache
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.AssemblyInfoInputs.cache
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.AssemblyInfo.cs
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.dll
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.pdb
+C:\ETEC\TPA\SorteioMagicoSC\SorteioMagicoSC\obj\Debug\netcoreapp3.1\SorteioMagicoSC.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.exe
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.deps.json
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.runtimeconfig.json
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.runtimeconfig.dev.json
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.dll
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.pdb
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.csprojAssemblyReference.cache
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.AssemblyInfoInputs.cache
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.AssemblyInfo.cs
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.dll
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.pdb
+C:\ETEC\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.genruntimeconfig.cache
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.exe
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.deps.json
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.runtimeconfig.json
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.runtimeconfig.dev.json
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.dll
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\bin\Debug\netcoreapp3.1\SuperSorteio.pdb
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.csproj.AssemblyReference.cache
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.AssemblyInfoInputs.cache
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.AssemblyInfo.cs
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.csproj.CoreCompileInputs.cache
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.dll
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.pdb
+E:\ETEC - 2020\TPA\SuperSorteio\SuperSorteio\obj\Debug\netcoreapp3.1\SuperSorteio.genruntimeconfig.cache
