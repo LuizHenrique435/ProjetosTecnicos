@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\bin\Debug\netcoreapp3.1\ExemploVetores.exe
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\bin\Debug\netcoreapp3.1\ExemploVetores.deps.json
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\bin\Debug\netcoreapp3.1\ExemploVetores.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\bin\Debug\netcoreapp3.1\ExemploVetores.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\bin\Debug\netcoreapp3.1\ExemploVetores.dll
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\bin\Debug\netcoreapp3.1\ExemploVetores.pdb
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.dll
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.pdb
+C:\Users\Luiz Henrique\source\repos\ExemploVetores\ExemploVetores\obj\Debug\netcoreapp3.1\ExemploVetores.genruntimeconfig.cache

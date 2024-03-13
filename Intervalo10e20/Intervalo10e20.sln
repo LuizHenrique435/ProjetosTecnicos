@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo10e20", "Intervalo10e20\Intervalo10e20.csproj", "{2B6484F0-31C8-46DF-ACC9-F34C62508B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6484F0-31C8-46DF-ACC9-F34C62508B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6484F0-31C8-46DF-ACC9-F34C62508B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6484F0-31C8-46DF-ACC9-F34C62508B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6484F0-31C8-46DF-ACC9-F34C62508B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F34B38C4-0727-45D3-97DE-F96AAC3A97C4}
+	EndGlobalSection
+EndGlobal

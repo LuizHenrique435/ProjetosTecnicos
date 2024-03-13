@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\bin\Debug\netcoreapp3.1\ExemploWhile.exe
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\bin\Debug\netcoreapp3.1\ExemploWhile.deps.json
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\bin\Debug\netcoreapp3.1\ExemploWhile.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\bin\Debug\netcoreapp3.1\ExemploWhile.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\bin\Debug\netcoreapp3.1\ExemploWhile.dll
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\bin\Debug\netcoreapp3.1\ExemploWhile.pdb
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.dll
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.pdb
+C:\Users\Luiz Henrique\source\repos\ExemploWhile\ExemploWhile\obj\Debug\netcoreapp3.1\ExemploWhile.genruntimeconfig.cache
