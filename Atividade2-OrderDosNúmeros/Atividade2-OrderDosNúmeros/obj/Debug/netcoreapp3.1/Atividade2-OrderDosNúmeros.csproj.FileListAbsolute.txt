@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\bin\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.exe
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\bin\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.deps.json
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\bin\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.runtimeconfig.json
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\bin\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.runtimeconfig.dev.json
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\bin\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.dll
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\bin\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.pdb
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.csprojAssemblyReference.cache
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.AssemblyInfo.cs
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.dll
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.pdb
+C:\ETEC\TPA\Atividade2-OrderDosNúmeros\Atividade2-OrderDosNúmeros\obj\Debug\netcoreapp3.1\Atividade2-OrderDosNúmeros.genruntimeconfig.cache
