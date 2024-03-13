@@ -1,0 +1,13 @@
+C:\ETEC\TPA\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.exe
+C:\ETEC\TPA\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.deps.json
+C:\ETEC\TPA\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.json
+C:\ETEC\TPA\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.dev.json
+C:\ETEC\TPA\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.dll
+C:\ETEC\TPA\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.pdb
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.csprojAssemblyReference.cache
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfoInputs.cache
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfo.cs
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.dll
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.pdb
+C:\ETEC\TPA\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.genruntimeconfig.cache

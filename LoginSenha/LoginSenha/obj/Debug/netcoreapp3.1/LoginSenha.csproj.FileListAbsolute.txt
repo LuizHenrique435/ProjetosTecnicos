@@ -1,0 +1,13 @@
+C:\ETEC\TPA\LoginSenha\LoginSenha\bin\Debug\netcoreapp3.1\LoginSenha.exe
+C:\ETEC\TPA\LoginSenha\LoginSenha\bin\Debug\netcoreapp3.1\LoginSenha.deps.json
+C:\ETEC\TPA\LoginSenha\LoginSenha\bin\Debug\netcoreapp3.1\LoginSenha.runtimeconfig.json
+C:\ETEC\TPA\LoginSenha\LoginSenha\bin\Debug\netcoreapp3.1\LoginSenha.runtimeconfig.dev.json
+C:\ETEC\TPA\LoginSenha\LoginSenha\bin\Debug\netcoreapp3.1\LoginSenha.dll
+C:\ETEC\TPA\LoginSenha\LoginSenha\bin\Debug\netcoreapp3.1\LoginSenha.pdb
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.csprojAssemblyReference.cache
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.AssemblyInfoInputs.cache
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.AssemblyInfo.cs
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.dll
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.pdb
+C:\ETEC\TPA\LoginSenha\LoginSenha\obj\Debug\netcoreapp3.1\LoginSenha.genruntimeconfig.cache
