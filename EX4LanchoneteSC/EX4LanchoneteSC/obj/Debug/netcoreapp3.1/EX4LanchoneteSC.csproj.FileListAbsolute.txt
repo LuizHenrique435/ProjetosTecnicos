@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\bin\Debug\netcoreapp3.1\EX4LanchoneteSC.exe
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\bin\Debug\netcoreapp3.1\EX4LanchoneteSC.deps.json
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\bin\Debug\netcoreapp3.1\EX4LanchoneteSC.runtimeconfig.json
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\bin\Debug\netcoreapp3.1\EX4LanchoneteSC.runtimeconfig.dev.json
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\bin\Debug\netcoreapp3.1\EX4LanchoneteSC.dll
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\bin\Debug\netcoreapp3.1\EX4LanchoneteSC.pdb
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.AssemblyInfo.cs
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.dll
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.pdb
+C:\ETEC\TPA\EX4LanchoneteSC\EX4LanchoneteSC\obj\Debug\netcoreapp3.1\EX4LanchoneteSC.genruntimeconfig.cache

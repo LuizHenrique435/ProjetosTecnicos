@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\bin\Debug\netcoreapp3.1\EX4PesquisaEtec.exe
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\bin\Debug\netcoreapp3.1\EX4PesquisaEtec.deps.json
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\bin\Debug\netcoreapp3.1\EX4PesquisaEtec.runtimeconfig.json
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\bin\Debug\netcoreapp3.1\EX4PesquisaEtec.runtimeconfig.dev.json
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\bin\Debug\netcoreapp3.1\EX4PesquisaEtec.dll
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\bin\Debug\netcoreapp3.1\EX4PesquisaEtec.pdb
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.AssemblyInfo.cs
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.dll
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.pdb
+C:\ETEC\TPA\EX4PesquisaEtec\EX4PesquisaEtec\obj\Debug\netcoreapp3.1\EX4PesquisaEtec.genruntimeconfig.cache

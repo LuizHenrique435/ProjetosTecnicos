@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\bin\Debug\netcoreapp3.1\Ex3VerificaPrimo.exe
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\bin\Debug\netcoreapp3.1\Ex3VerificaPrimo.deps.json
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\bin\Debug\netcoreapp3.1\Ex3VerificaPrimo.runtimeconfig.json
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\bin\Debug\netcoreapp3.1\Ex3VerificaPrimo.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\bin\Debug\netcoreapp3.1\Ex3VerificaPrimo.dll
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\bin\Debug\netcoreapp3.1\Ex3VerificaPrimo.pdb
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.csprojAssemblyReference.cache
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.AssemblyInfo.cs
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.dll
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.pdb
+C:\ETEC\TPA\Ex3VerificaPrimo\Ex3VerificaPrimo\obj\Debug\netcoreapp3.1\Ex3VerificaPrimo.genruntimeconfig.cache
