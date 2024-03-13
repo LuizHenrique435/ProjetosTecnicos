@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\bin\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.exe
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\bin\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.deps.json
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\bin\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.runtimeconfig.json
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\bin\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.runtimeconfig.dev.json
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\bin\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.dll
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\bin\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.pdb
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.csprojAssemblyReference.cache
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.AssemblyInfo.cs
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.dll
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.pdb
+C:\ETEC\TPA\Atividade3-NúmerosIguais\Atividade3-NúmerosIguais\obj\Debug\netcoreapp3.1\Atividade3-NúmerosIguais.genruntimeconfig.cache
