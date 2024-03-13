@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\bin\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.exe
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\bin\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.deps.json
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\bin\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\bin\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\bin\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.dll
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\bin\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.pdb
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.dll
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.pdb
+C:\Users\Luiz Henrique\source\repos\Atividade6-LucrodoProduto\Atividade6-LucrodoProduto\obj\Debug\netcoreapp3.1\Atividade6-LucrodoProduto.genruntimeconfig.cache

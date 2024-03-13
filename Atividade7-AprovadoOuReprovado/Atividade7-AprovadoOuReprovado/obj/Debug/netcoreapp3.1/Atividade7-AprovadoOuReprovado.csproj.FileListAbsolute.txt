@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\bin\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.exe
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\bin\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.deps.json
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\bin\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\bin\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\bin\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.dll
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\bin\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.pdb
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.dll
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.pdb
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.genruntimeconfig.cache
+C:\Users\Luiz Henrique\source\repos\Atividade7-AprovadoOuReprovado\Atividade7-AprovadoOuReprovado\obj\Debug\netcoreapp3.1\Atividade7-AprovadoOuReprovado.csprojAssemblyReference.cache

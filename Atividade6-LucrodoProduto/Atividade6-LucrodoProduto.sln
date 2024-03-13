@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade6-LucrodoProduto", "Atividade6-LucrodoProduto\Atividade6-LucrodoProduto.csproj", "{0BE971A4-C455-437B-96FE-1400D87F9EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE971A4-C455-437B-96FE-1400D87F9EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE971A4-C455-437B-96FE-1400D87F9EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE971A4-C455-437B-96FE-1400D87F9EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE971A4-C455-437B-96FE-1400D87F9EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F925A6-443A-4E3D-A471-1B046E5E19DC}
+	EndGlobalSection
+EndGlobal
