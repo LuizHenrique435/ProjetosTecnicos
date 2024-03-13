@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\bin\Debug\netcoreapp3.1\EX3NotaPeso.exe
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\bin\Debug\netcoreapp3.1\EX3NotaPeso.deps.json
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\bin\Debug\netcoreapp3.1\EX3NotaPeso.runtimeconfig.json
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\bin\Debug\netcoreapp3.1\EX3NotaPeso.runtimeconfig.dev.json
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\bin\Debug\netcoreapp3.1\EX3NotaPeso.dll
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\bin\Debug\netcoreapp3.1\EX3NotaPeso.pdb
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.AssemblyInfo.cs
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.dll
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.pdb
+C:\ETEC\TPA\EX3NotaPeso\EX3NotaPeso\obj\Debug\netcoreapp3.1\EX3NotaPeso.genruntimeconfig.cache

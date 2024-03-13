@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\bin\Debug\netcoreapp3.1\EX3NumOperacao.exe
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\bin\Debug\netcoreapp3.1\EX3NumOperacao.deps.json
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\bin\Debug\netcoreapp3.1\EX3NumOperacao.runtimeconfig.json
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\bin\Debug\netcoreapp3.1\EX3NumOperacao.runtimeconfig.dev.json
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\bin\Debug\netcoreapp3.1\EX3NumOperacao.dll
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\bin\Debug\netcoreapp3.1\EX3NumOperacao.pdb
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.AssemblyInfo.cs
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.dll
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.pdb
+C:\ETEC\TPA\EX3NumOperacao\EX3NumOperacao\obj\Debug\netcoreapp3.1\EX3NumOperacao.genruntimeconfig.cache
