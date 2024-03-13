@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\bin\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.exe
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\bin\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.deps.json
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\bin\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.runtimeconfig.json
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\bin\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.runtimeconfig.dev.json
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\bin\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.dll
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\bin\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.pdb
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.AssemblyInfo.cs
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.dll
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.pdb
+C:\ETEC\TPA\EX1QtdPessoasMuseu\EX1QtdPessoasMuseu\obj\Debug\netcoreapp3.1\EX1QtdPessoasMuseu.genruntimeconfig.cache

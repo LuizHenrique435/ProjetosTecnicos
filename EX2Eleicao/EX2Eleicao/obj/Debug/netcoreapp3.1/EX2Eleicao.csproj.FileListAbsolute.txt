@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\bin\Debug\netcoreapp3.1\EX2Eleicao.exe
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\bin\Debug\netcoreapp3.1\EX2Eleicao.deps.json
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\bin\Debug\netcoreapp3.1\EX2Eleicao.runtimeconfig.json
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\bin\Debug\netcoreapp3.1\EX2Eleicao.runtimeconfig.dev.json
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\bin\Debug\netcoreapp3.1\EX2Eleicao.dll
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\bin\Debug\netcoreapp3.1\EX2Eleicao.pdb
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.AssemblyInfo.cs
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.dll
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.pdb
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.genruntimeconfig.cache
+C:\ETEC\TPA\EX2Eleicao\EX2Eleicao\obj\Debug\netcoreapp3.1\EX2Eleicao.csprojAssemblyReference.cache

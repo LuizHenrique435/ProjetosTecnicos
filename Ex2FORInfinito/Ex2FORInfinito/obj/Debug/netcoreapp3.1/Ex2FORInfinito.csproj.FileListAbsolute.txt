@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\bin\Debug\netcoreapp3.1\Ex2FORInfinito.exe
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\bin\Debug\netcoreapp3.1\Ex2FORInfinito.deps.json
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\bin\Debug\netcoreapp3.1\Ex2FORInfinito.runtimeconfig.json
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\bin\Debug\netcoreapp3.1\Ex2FORInfinito.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\bin\Debug\netcoreapp3.1\Ex2FORInfinito.dll
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\bin\Debug\netcoreapp3.1\Ex2FORInfinito.pdb
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.AssemblyInfo.cs
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.dll
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.pdb
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.genruntimeconfig.cache
+C:\ETEC\TPA\Ex2FORInfinito\Ex2FORInfinito\obj\Debug\netcoreapp3.1\Ex2FORInfinito.csprojAssemblyReference.cache
