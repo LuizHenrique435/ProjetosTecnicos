@@ -1,0 +1,12 @@
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\bin\Debug\netcoreapp3.1\CodigoProdutoSC.exe
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\bin\Debug\netcoreapp3.1\CodigoProdutoSC.deps.json
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\bin\Debug\netcoreapp3.1\CodigoProdutoSC.runtimeconfig.json
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\bin\Debug\netcoreapp3.1\CodigoProdutoSC.runtimeconfig.dev.json
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\bin\Debug\netcoreapp3.1\CodigoProdutoSC.dll
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\bin\Debug\netcoreapp3.1\CodigoProdutoSC.pdb
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\obj\Debug\netcoreapp3.1\CodigoProdutoSC.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\obj\Debug\netcoreapp3.1\CodigoProdutoSC.AssemblyInfoInputs.cache
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\obj\Debug\netcoreapp3.1\CodigoProdutoSC.AssemblyInfo.cs
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\obj\Debug\netcoreapp3.1\CodigoProdutoSC.dll
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\obj\Debug\netcoreapp3.1\CodigoProdutoSC.pdb
+C:\ETEC\TPA\CodigoProdutoSC\CodigoProdutoSC\obj\Debug\netcoreapp3.1\CodigoProdutoSC.genruntimeconfig.cache

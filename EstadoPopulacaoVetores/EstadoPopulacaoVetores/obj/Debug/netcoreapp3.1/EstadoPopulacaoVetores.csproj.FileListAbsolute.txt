@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\bin\Debug\netcoreapp3.1\EstadoPopulacaoVetores.exe
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\bin\Debug\netcoreapp3.1\EstadoPopulacaoVetores.deps.json
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\bin\Debug\netcoreapp3.1\EstadoPopulacaoVetores.runtimeconfig.json
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\bin\Debug\netcoreapp3.1\EstadoPopulacaoVetores.runtimeconfig.dev.json
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\bin\Debug\netcoreapp3.1\EstadoPopulacaoVetores.dll
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\bin\Debug\netcoreapp3.1\EstadoPopulacaoVetores.pdb
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.csprojAssemblyReference.cache
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.AssemblyInfo.cs
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.dll
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.pdb
+C:\ETEC\TPA\EstadoPopulacaoVetores\EstadoPopulacaoVetores\obj\Debug\netcoreapp3.1\EstadoPopulacaoVetores.genruntimeconfig.cache
