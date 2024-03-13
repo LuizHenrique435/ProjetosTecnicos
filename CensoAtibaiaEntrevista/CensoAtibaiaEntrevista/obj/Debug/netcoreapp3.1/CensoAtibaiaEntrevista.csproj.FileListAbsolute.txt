@@ -1,0 +1,13 @@
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\bin\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.exe
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\bin\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.deps.json
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\bin\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\bin\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.runtimeconfig.dev.json
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\bin\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.dll
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\bin\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.pdb
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.csprojAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.dll
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.pdb
+C:\Users\Luiz Henrique\source\repos\CensoAtibaiaEntrevista\CensoAtibaiaEntrevista\obj\Debug\netcoreapp3.1\CensoAtibaiaEntrevista.genruntimeconfig.cache

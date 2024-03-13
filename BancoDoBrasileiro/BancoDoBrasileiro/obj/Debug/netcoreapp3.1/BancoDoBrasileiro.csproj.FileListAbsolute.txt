@@ -1,0 +1,13 @@
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\bin\Debug\netcoreapp3.1\BancoDoBrasileiro.exe
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\bin\Debug\netcoreapp3.1\BancoDoBrasileiro.deps.json
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\bin\Debug\netcoreapp3.1\BancoDoBrasileiro.runtimeconfig.json
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\bin\Debug\netcoreapp3.1\BancoDoBrasileiro.runtimeconfig.dev.json
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\bin\Debug\netcoreapp3.1\BancoDoBrasileiro.dll
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\bin\Debug\netcoreapp3.1\BancoDoBrasileiro.pdb
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.csprojAssemblyReference.cache
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.AssemblyInfoInputs.cache
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.AssemblyInfo.cs
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.dll
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.pdb
+C:\ETEC\TPA\BancoDoBrasileiro\BancoDoBrasileiro\obj\Debug\netcoreapp3.1\BancoDoBrasileiro.genruntimeconfig.cache
