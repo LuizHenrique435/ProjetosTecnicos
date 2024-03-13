@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\bin\Debug\netcoreapp3.1\EX1Fibonacci.exe
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\bin\Debug\netcoreapp3.1\EX1Fibonacci.deps.json
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\bin\Debug\netcoreapp3.1\EX1Fibonacci.runtimeconfig.json
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\bin\Debug\netcoreapp3.1\EX1Fibonacci.runtimeconfig.dev.json
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\bin\Debug\netcoreapp3.1\EX1Fibonacci.dll
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\bin\Debug\netcoreapp3.1\EX1Fibonacci.pdb
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.AssemblyInfo.cs
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.dll
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.pdb
+C:\ETEC\TPA\EX1Fibonacci\EX1Fibonacci\obj\Debug\netcoreapp3.1\EX1Fibonacci.genruntimeconfig.cache

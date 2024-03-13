@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\bin\Debug\netcoreapp3.1\EX1Multiplos235.exe
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\bin\Debug\netcoreapp3.1\EX1Multiplos235.deps.json
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\bin\Debug\netcoreapp3.1\EX1Multiplos235.runtimeconfig.json
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\bin\Debug\netcoreapp3.1\EX1Multiplos235.runtimeconfig.dev.json
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\bin\Debug\netcoreapp3.1\EX1Multiplos235.dll
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\bin\Debug\netcoreapp3.1\EX1Multiplos235.pdb
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.AssemblyInfo.cs
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.dll
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.pdb
+C:\ETEC\TPA\EX1Multiplos235\EX1Multiplos235\obj\Debug\netcoreapp3.1\EX1Multiplos235.genruntimeconfig.cache

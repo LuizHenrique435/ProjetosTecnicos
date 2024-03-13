@@ -1,0 +1,13 @@
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\bin\Debug\netcoreapp3.1\EX1NumInteiroRetorna.exe
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\bin\Debug\netcoreapp3.1\EX1NumInteiroRetorna.deps.json
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\bin\Debug\netcoreapp3.1\EX1NumInteiroRetorna.runtimeconfig.json
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\bin\Debug\netcoreapp3.1\EX1NumInteiroRetorna.runtimeconfig.dev.json
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\bin\Debug\netcoreapp3.1\EX1NumInteiroRetorna.dll
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\bin\Debug\netcoreapp3.1\EX1NumInteiroRetorna.pdb
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.csprojAssemblyReference.cache
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.AssemblyInfoInputs.cache
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.AssemblyInfo.cs
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.dll
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.pdb
+C:\ETEC\TPA\EX1NumInteiroRetorna\EX1NumInteiroRetorna\obj\Debug\netcoreapp3.1\EX1NumInteiroRetorna.genruntimeconfig.cache
