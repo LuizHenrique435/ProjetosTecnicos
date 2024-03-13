@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\bin\Debug\netcoreapp3.1\Ex315NumMaiorMenor.exe
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\bin\Debug\netcoreapp3.1\Ex315NumMaiorMenor.deps.json
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\bin\Debug\netcoreapp3.1\Ex315NumMaiorMenor.runtimeconfig.json
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\bin\Debug\netcoreapp3.1\Ex315NumMaiorMenor.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\bin\Debug\netcoreapp3.1\Ex315NumMaiorMenor.dll
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\bin\Debug\netcoreapp3.1\Ex315NumMaiorMenor.pdb
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.csprojAssemblyReference.cache
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.AssemblyInfo.cs
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.dll
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.pdb
+C:\ETEC\TPA\Ex315NumMaiorMenor\Ex315NumMaiorMenor\obj\Debug\netcoreapp3.1\Ex315NumMaiorMenor.genruntimeconfig.cache

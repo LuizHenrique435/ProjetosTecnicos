@@ -1,0 +1,13 @@
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\bin\Debug\netcoreapp3.1\ExemploTabuadaFOR.exe
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\bin\Debug\netcoreapp3.1\ExemploTabuadaFOR.deps.json
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\bin\Debug\netcoreapp3.1\ExemploTabuadaFOR.runtimeconfig.json
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\bin\Debug\netcoreapp3.1\ExemploTabuadaFOR.runtimeconfig.dev.json
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\bin\Debug\netcoreapp3.1\ExemploTabuadaFOR.dll
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\bin\Debug\netcoreapp3.1\ExemploTabuadaFOR.pdb
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.AssemblyInfoInputs.cache
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.AssemblyInfo.cs
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.dll
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.pdb
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.genruntimeconfig.cache
+C:\ETEC\TPA\ExemploTabuadaFOR\ExemploTabuadaFOR\obj\Debug\netcoreapp3.1\ExemploTabuadaFOR.csprojAssemblyReference.cache

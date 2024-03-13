@@ -1,0 +1,13 @@
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\bin\Debug\netcoreapp3.1\ExemplosArray.exe
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\bin\Debug\netcoreapp3.1\ExemplosArray.deps.json
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\bin\Debug\netcoreapp3.1\ExemplosArray.runtimeconfig.json
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\bin\Debug\netcoreapp3.1\ExemplosArray.runtimeconfig.dev.json
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\bin\Debug\netcoreapp3.1\ExemplosArray.dll
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\bin\Debug\netcoreapp3.1\ExemplosArray.pdb
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.csprojAssemblyReference.cache
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.AssemblyInfoInputs.cache
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.AssemblyInfo.cs
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.dll
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.pdb
+C:\ETEC\TPA\ExemplosArray\ExemplosArray\obj\Debug\netcoreapp3.1\ExemplosArray.genruntimeconfig.cache
