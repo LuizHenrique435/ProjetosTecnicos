@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex220Par\Ex220Par\bin\Debug\netcoreapp3.1\Ex220Par.exe
+C:\ETEC\TPA\Ex220Par\Ex220Par\bin\Debug\netcoreapp3.1\Ex220Par.deps.json
+C:\ETEC\TPA\Ex220Par\Ex220Par\bin\Debug\netcoreapp3.1\Ex220Par.runtimeconfig.json
+C:\ETEC\TPA\Ex220Par\Ex220Par\bin\Debug\netcoreapp3.1\Ex220Par.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex220Par\Ex220Par\bin\Debug\netcoreapp3.1\Ex220Par.dll
+C:\ETEC\TPA\Ex220Par\Ex220Par\bin\Debug\netcoreapp3.1\Ex220Par.pdb
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.AssemblyInfo.cs
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.dll
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.pdb
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.genruntimeconfig.cache
+C:\ETEC\TPA\Ex220Par\Ex220Par\obj\Debug\netcoreapp3.1\Ex220Par.csprojAssemblyReference.cache

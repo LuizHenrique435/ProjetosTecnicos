@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Ex11E100\Ex11E100\bin\Debug\netcoreapp3.1\Ex11E100.exe
+C:\ETEC\TPA\Ex11E100\Ex11E100\bin\Debug\netcoreapp3.1\Ex11E100.deps.json
+C:\ETEC\TPA\Ex11E100\Ex11E100\bin\Debug\netcoreapp3.1\Ex11E100.runtimeconfig.json
+C:\ETEC\TPA\Ex11E100\Ex11E100\bin\Debug\netcoreapp3.1\Ex11E100.runtimeconfig.dev.json
+C:\ETEC\TPA\Ex11E100\Ex11E100\bin\Debug\netcoreapp3.1\Ex11E100.dll
+C:\ETEC\TPA\Ex11E100\Ex11E100\bin\Debug\netcoreapp3.1\Ex11E100.pdb
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.csprojAssemblyReference.cache
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.AssemblyInfo.cs
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.dll
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.pdb
+C:\ETEC\TPA\Ex11E100\Ex11E100\obj\Debug\netcoreapp3.1\Ex11E100.genruntimeconfig.cache
