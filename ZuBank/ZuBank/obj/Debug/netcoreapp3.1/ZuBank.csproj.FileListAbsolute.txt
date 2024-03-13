@@ -1,0 +1,11 @@
+C:\TPA\ZuBank\ZuBank\bin\Debug\netcoreapp3.1\ZuBank.exe
+C:\TPA\ZuBank\ZuBank\bin\Debug\netcoreapp3.1\ZuBank.deps.json
+C:\TPA\ZuBank\ZuBank\bin\Debug\netcoreapp3.1\ZuBank.runtimeconfig.json
+C:\TPA\ZuBank\ZuBank\bin\Debug\netcoreapp3.1\ZuBank.runtimeconfig.dev.json
+C:\TPA\ZuBank\ZuBank\bin\Debug\netcoreapp3.1\ZuBank.dll
+C:\TPA\ZuBank\ZuBank\bin\Debug\netcoreapp3.1\ZuBank.pdb
+C:\TPA\ZuBank\ZuBank\obj\Debug\netcoreapp3.1\ZuBank.csprojAssemblyReference.cache
+C:\TPA\ZuBank\ZuBank\obj\Debug\netcoreapp3.1\ZuBank.AssemblyInfoInputs.cache
+C:\TPA\ZuBank\ZuBank\obj\Debug\netcoreapp3.1\ZuBank.AssemblyInfo.cs
+C:\TPA\ZuBank\ZuBank\obj\Debug\netcoreapp3.1\ZuBank.dll
+C:\TPA\ZuBank\ZuBank\obj\Debug\netcoreapp3.1\ZuBank.pdb

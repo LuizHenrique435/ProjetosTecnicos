@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEOREMADOSCONJUNTOS", "TEOREMADOSCONJUNTOS\TEOREMADOSCONJUNTOS.csproj", "{0BB9BD9A-9FF2-42EC-B73C-37898972BE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB9BD9A-9FF2-42EC-B73C-37898972BE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB9BD9A-9FF2-42EC-B73C-37898972BE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB9BD9A-9FF2-42EC-B73C-37898972BE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB9BD9A-9FF2-42EC-B73C-37898972BE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A58E879A-CC98-4593-9564-4196D3F58B53}
+	EndGlobalSection
+EndGlobal
