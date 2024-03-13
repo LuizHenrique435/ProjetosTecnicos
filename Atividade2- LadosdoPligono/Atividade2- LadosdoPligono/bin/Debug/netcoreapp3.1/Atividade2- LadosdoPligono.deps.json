@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atividade2- LadosdoPligono/1.0.0": {
+        "runtime": {
+          "Atividade2- LadosdoPligono.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade2- LadosdoPligono/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
