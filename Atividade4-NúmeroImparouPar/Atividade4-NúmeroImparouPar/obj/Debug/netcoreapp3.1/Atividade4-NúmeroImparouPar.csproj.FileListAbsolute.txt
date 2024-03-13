@@ -1,0 +1,19 @@
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\bin\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.exe
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\bin\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.deps.json
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\bin\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.runtimeconfig.json
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\bin\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.runtimeconfig.dev.json
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\bin\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.dll
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\bin\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.pdb
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.AssemblyInfo.cs
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.dll
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.pdb
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.genruntimeconfig.cache
+C:\ETEC\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.csprojAssemblyReference.cache
+E:\ETEC - 2020\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.dll
+E:\ETEC - 2020\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.pdb
+E:\ETEC - 2020\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC - 2020\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.AssemblyInfoInputs.cache
+E:\ETEC - 2020\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.AssemblyInfo.cs
+E:\ETEC - 2020\TPA\Atividade4-NúmeroImparouPar\Atividade4-NúmeroImparouPar\obj\Debug\netcoreapp3.1\Atividade4-NúmeroImparouPar.csproj.CoreCompileInputs.cache

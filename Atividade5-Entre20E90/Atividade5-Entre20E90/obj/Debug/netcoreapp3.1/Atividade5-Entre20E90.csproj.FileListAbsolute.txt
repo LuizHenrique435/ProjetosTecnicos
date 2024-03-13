@@ -1,0 +1,13 @@
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\bin\Debug\netcoreapp3.1\Atividade5-Entre20E90.exe
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\bin\Debug\netcoreapp3.1\Atividade5-Entre20E90.deps.json
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\bin\Debug\netcoreapp3.1\Atividade5-Entre20E90.runtimeconfig.json
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\bin\Debug\netcoreapp3.1\Atividade5-Entre20E90.runtimeconfig.dev.json
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\bin\Debug\netcoreapp3.1\Atividade5-Entre20E90.dll
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\bin\Debug\netcoreapp3.1\Atividade5-Entre20E90.pdb
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.csprojAssemblyReference.cache
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.csproj.CoreCompileInputs.cache
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.AssemblyInfoInputs.cache
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.AssemblyInfo.cs
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.dll
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.pdb
+C:\ETEC\TPA\Atividade5-Entre20E90\Atividade5-Entre20E90\obj\Debug\netcoreapp3.1\Atividade5-Entre20E90.genruntimeconfig.cache
