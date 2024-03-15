@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans:wght@800&display=swap');
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #E9E3C3;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #E9E3C3;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Nunito Sans';
+    font-size: 23px;
+    letter-spacing: 2px;
+    color: #DB5855;
+    text-transform: uppercase;
+}
+
+
+label,
+input,
+textarea {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+
+li {
+    font-family: 'Lato', sans-serif;
+    display: inline;
+    margin-right: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+ul {
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #E9E3C3;
+}
+
+a {
+    text-decoration: none;
+    color: #DB5855;
+    font-size: 18px;
+}
+
+a:hover {
+    color: #E9E3C3;
+
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.conteiner {
+    margin-right: 5%;
+    margin-left: 5%;
+
+}
+
+form {
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+.linha {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.coluna-100 {
+    width: 100%;
+}
+
+.coluna-50 {
+    width: 50%;
+}
+
+.coluna-33 {
+    width: 33%;
+}
+
+.coluna-30 {
+    width: 30%;
+}
+
+.coluna-75 {
+    width: 75%;
+}
+
+.coluna-25 {
+    width: 25%;
+}
+
+.coluna-70 {
+    width: 70%;
+}
+
+.coluna-30 {
+    width: 30%;
+}
+
+.card {
+    margin: 15px;
+    padding: 150px;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    background-color: lightgray;
+}
+
+.fixaMenu {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    box-shadow: 2px 4px 6px #000000;
+}
+
+.botaoLuiz3 {
+
+    border-style: solid;
+    border-color: #DB5855;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #E9E3C3;
+    border-radius: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    box-shadow: 2px 4px 6px #000000;
+}
+
+.botaoLuiz3:hover {
+    background-color: #ffffff;
+}
+
+.Botaoinicio {
+    border-style: solid;
+    border-color: #DB5855;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #E9E3C3;
+    border-radius: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    box-shadow: 2px 4px 6px #000000;
+    margin-right: 15px;
+}
+
+.Botaoinicio:hover {
+    background-color: #E9E3C3;
+    border-color: #E9E3C3;
+}
+
+.BotaoCardapio {
+    border-color: #E9E3C3;
+    color: #E9E3C3;
+    background-color: #DB5855;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    font-size: 17px;
+    text-align: center;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: inherit;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    box-shadow: 2px 4px 6px #000000;
+    margin-left: 250px;
+   margin-top: 40px;
+    
+}
+
+.BotaoCardapio:hover {
+    background-color: #E9E3C3;
+    border-color: #DB5855;
+    color: #DB5855;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    box-shadow: 2px 4px 6px #000000;
+}
+label,
+input,
+textarea {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #E9E3C3;
+    
+}
+
+input,
+textarea
+{
+
+    font-size: 16px;
+    color: #DB5855;
+    border width: 2px;
+    border-style: double;
+    padding: 5px;
+    border-radius: 20px;
+    width: 100%;
+    border-color: #E9E3C3;
+}
