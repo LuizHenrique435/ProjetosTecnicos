@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+</head>
+<body>
+    
+    <a href="#" onclick="TraduzPortugues()">
+    <img src="/Bandeira_do_Brasil.png" width="4%">
+    </a>
+        
+    <a href="#" onclick="TraduzIngles()">
+    <img src="/bandeira-do-reino-unido (1).webp" width="5%">
+    </a>
+    
+    <a href="#" onclick="TraduzEspanhol()">
+    <img src="/bandeira_espanha.png" width="4%">
+    </a>
+    
+    <a href="#" onclick="TraduzItaliano()">
+    <img src="/bandeira_italia.png" width="4%">
+    </a>
+    
+    <p id="texto" style="font-size: 50px">
+       Dedica-se a esperar o futuro apenas quem não sabe viver o presente. 
+    </p>
+    
+    <script>
+        
+        function TraduzIngles()
+        {
+            document.getElementById("texto").innerHTML = "It is dedicated to waiting for the future only those who do not know how to live in the present.";
+        }
+        
+        function TraduzEspanhol()
+        {
+            document.getElementById("texto").innerHTML = "Se dedica a esperar el futuro solo a quienes no saben vivir en el presente.";
+        }
+        
+        function TraduzItaliano()
+        {
+            document.getElementById("texto").innerHTML = "Si dedica ad aspettare il futuro solo a chi non sa vivere il presente.";
+        }
+                
+        function TraduzPortugues()
+        {
+            document.getElementById("texto").innerHTML = "Dedica-se a esperar o futuro apenas quem não sabe viver o presente.";
+        }
+        
+    </script>
+    
+</body>
+</html>
